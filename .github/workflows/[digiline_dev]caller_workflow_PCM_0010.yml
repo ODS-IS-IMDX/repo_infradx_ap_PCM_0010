@@ -20,4 +20,3 @@ jobs:
       REPO_PATH: "App/functions/"                                 # リポジトリパス
       REPO: "repo_infradx_ap_PCM_0010"                            # リポジトリ名
       INSTANCE_PATH: "/infradx/app/infradx-batch-data/functions"  # インスタンスパス
-      file-name: "PCM_0010.py"
